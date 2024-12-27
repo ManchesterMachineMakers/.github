@@ -5,4 +5,4 @@ Hi, we're the Manchester Machine Makers, a 4-H club and FIRST Tech Challenge rob
 
 :dollar: **Donations**: [Please support us on PayPal!](https://www.paypal.com/donate?hosted_button_id=WLPEK5DVDKRUA)
 
-:bathtub: **Wait, what's a ~~bathtub~~ squirrel doing here?**
+:squirrel: **Wait, what's a ~~bathtub~~ squirrel doing here?**
